@@ -1,4 +1,4 @@
 # AWS-codeDeployTest
 Testing AWS code deploy.
 
-Added Hook, Testing auto deploy.
+Added both Hooks, Testing auto deploy.
