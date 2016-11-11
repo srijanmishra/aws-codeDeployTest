@@ -2,7 +2,7 @@ version: 0.0
 os: linux
 files:
   - source: .
-    destination: codeDeployTest
+    destination: /home/ubuntu/codeDeployTest
 # hooks:
 #   BeforeInstall:
 #     - location: Scripts/UnzipResourceBundle.sh
